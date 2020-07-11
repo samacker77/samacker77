@@ -3,7 +3,8 @@
 
 
 <a href="https://instagram/samacker77i"><img height="30" src="https://github.com/samacker77/samacker77/blob/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/samacker77l/"><img height="30" src="https://github.com/samacker77/samacker77/blob/master/icon/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/samacker77l/"><img height="30" src="https://github.com/samacker77/samacker77/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://sourcerer.io/samacker77/" target="_blank"><img src="https://raw.githubusercontent.com/samacker77/Zero-to-Hero-in-NLP/master/images/visual.png" align="left" height="30" width="25" ></a>
 </p>
 
 Hey there 👋,
