@@ -1,4 +1,4 @@
-# [![Samar Srivastava Header](assests/hero-image.png)](https://samacker77.github.io)
+# [![Samar Srivastava Header](https://raw.githubusercontent.com/samacker77/samacker77/master/assests/hero-image.png)](https://samacker77.github.io)
 <p align='center'>
 
 
