@@ -36,6 +36,7 @@ Some of my best works for the community:
 - [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
 - Trigram Language Model named [GPT-Free](https://www.kaggle.com/samacker77k/gpt-free-tri-gram-language-model?rvi=1)
 - Why you should [not be using nltk](https://www.kaggle.com/samacker77k/better-tokenization-nltk-vs-tokenizers)
+- Never forget [Precision & Recall](https://www.linkedin.com/posts/samacker77l_datascience-machinelearning-python-activity-6673279940378583040-OPDq)
 
 Browse through my Github repositories for more.
 
