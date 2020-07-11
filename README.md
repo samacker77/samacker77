@@ -10,4 +10,16 @@
 - 📫 How to reach me: Find my social profiles below
   * [LinkedIn](https://www.linked.com/in/samacker77l)
   * [E-Portfolio](https://samacker77.github.io)
+  * [Kaggle](https://kaggle.com/samacker77k)
+  * [Visual Profile](https://sourcerer.io/samacker77)
+  * [samarsrivastava44@gmail.com](mailto:samarsrivastava44@gmail.com)
+  * [Click to Chat](https://wa.link/vh8tk9)
+  
+- Learn from my NLP notes - [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
+
+  
+  
+  
+  
+ 
 
