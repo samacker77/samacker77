@@ -1,11 +1,17 @@
 # [![Samar Srivastava Header](https://raw.githubusercontent.com/samacker77/samacker77/master/assests/hero-image.png)](https://samacker77.github.io)
 <p align='center'>
 
-
-<a href="https://instagram/samacker77i"><img height="30" src="https://github.com/samacker77/samacker77/blob/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/samacker77l/"><img height="30" src="https://github.com/samacker77/samacker77/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://sourcerer.io/samacker77/" target="_blank"><img src="https://raw.githubusercontent.com/samacker77/Zero-to-Hero-in-NLP/master/images/visual.png" align="left" height="30" width="25" ></a>
+<a href="https://sourcerer.io/samacker77/" target="_blank"><img src="https://raw.githubusercontent.com/samacker77/Zero-to-Hero-in-NLP/master/images/visual.png" align="left" height="30" width="30" ></a>
 </p>
+
+---
+
+[E-Portfolio](https://samacker77.github.io)
+[Kaggle](https://kaggle.com/samacker77k)
+[Visual Profile](https://sourcerer.io/samacker77)
+[samarsrivastava44@gmail.com](mailto:samarsrivastava44@gmail.com)
+[Click to Chat](https://wa.link/vh8tk9)
 
 Hey there 👋,
 
