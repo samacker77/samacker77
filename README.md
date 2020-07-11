@@ -12,15 +12,19 @@ Hey there 👋,
  
  ---
 
-<!--<p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>-->
 
-### My Digital Garden 🌱
+### About me 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+I write regular posts explaning Machine Learning concepts in simple ways, most of which you will find on my linkedin profile [here](https://linkedin.com/in/samacker77l)
+Connect with me if you are into Machine Learning, Natural Language Processing or Data Science, or want to discuss philosophy
+
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **machine learning**. 
+
+Some of my best works for the community:
+
+- [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
+
 
 
 
