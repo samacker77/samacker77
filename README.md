@@ -1,25 +1,38 @@
-### Hi there 👋
+# [![Samar Srivastava Header](assests/hero-image.png)](https://samacker77.github.io)
+<p align='center'>
 
-<!--
-**samacker77/samacker77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<a href="https://twitter/_waylonwalker"><img height="30" src="https://github.com/samacker77/samacker77/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram/samacker77i"><img height="30" src="https://github.com/samacker77/samacker77/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-- 🔭 I’m currently working on Natural Language Processing
-- 👯 I’m looking to collaborate on open source NLP projects
-- 💬 Ask me about Natural Language Processing, Machine Learning, Data Science.
-- 📫 How to reach me: Find my social profiles below
-  * [LinkedIn](https://www.linked.com/in/samacker77l)
-  * [E-Portfolio](https://samacker77.github.io)
-  * [Kaggle](https://kaggle.com/samacker77k)
-  * [Visual Profile](https://sourcerer.io/samacker77)
-  * [samarsrivastava44@gmail.com](mailto:samarsrivastava44@gmail.com)
-  * [Click to Chat](https://wa.link/vh8tk9)
-  
-- Learn from my NLP notes - [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
+Hey there 👋,
 
-  
-  
-  
-  
+I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
  
+ ---
 
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+
+[Latest Post 👉](https://waylonwalker.com/latest)
+
+<details>
+ <summary><strong>other favorite posts</strong></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
+ 
+</details>
+💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+ <p/>
