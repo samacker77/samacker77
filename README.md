@@ -7,15 +7,13 @@
 
 ---
 
-[E-Portfolio](https://samacker77.github.io)
+<h2 style="text-align:center>Social Profiles</h2>
 
-[Kaggle](https://kaggle.com/samacker77k)
-
-[Visual Profile](https://sourcerer.io/samacker77)
-
-[samarsrivastava44@gmail.com](mailto:samarsrivastava44@gmail.com)
-
-[Click to Chat](https://wa.link/vh8tk9)
+- [E-Portfolio](https://samacker77.github.io)
+- [Kaggle](https://kaggle.com/samacker77k)
+- [Visual Profile](https://sourcerer.io/samacker77)
+- [samarsrivastava44@gmail.com](mailto:samarsrivastava44@gmail.com)
+- [Click to Chat](https://wa.link/vh8tk9)
 
 Hey there 👋,
 
@@ -35,6 +33,10 @@ I write about things I am familiar with, things that trip up folks that I mentor
 Some of my best works for the community:
 
 - [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
+- Trigram Language Model named [GPT-Free](https://www.kaggle.com/samacker77k/gpt-free-tri-gram-language-model?rvi=1)
+
+Browse through my Github repositories for more.
+
 
 
 
