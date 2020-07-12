@@ -1,4 +1,8 @@
 
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=samacker77.visitor-badge">
+<p/>
+ 
 ### Hi! 🤗 I am *Samar*.
 
 ---
@@ -45,12 +49,5 @@ My posts worth your time:
 
 Browse through my Github repositories for more.
 
-
-
-
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=samacker77.visitor-badge">
- <p/>
  
  Reach me at [samarsrivastava44@gmail.com](samarsrivastava44@gmail.com)
