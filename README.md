@@ -32,7 +32,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
  ---
 
 
-My posts that went viral:
+My posts worth your time:
 
 - [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
 - Trigram Language Model named [GPT-Free](https://www.kaggle.com/samacker77k/gpt-free-tri-gram-language-model?rvi=1)
