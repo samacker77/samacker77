@@ -23,8 +23,6 @@ Technologies that I have experience on :
 
 When in times of leisure, I like to read books in the genre of mystery thriller, pyschology, and self-help. I am usually found pursuing a MooC or reading a book to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now.
 
-I have a portmanteau that I created in high school. I have always been into computers, breaking them, and reverse engineering them. So I created "samacker", that's a portmanteau from "Samar" + "hacker" + "77". 77 stands for the file permission in Linux, i.e. you can read and write(post) on my social media.
-
 ---
 
 <h2 style="text-align:center">Social Profiles</h2>
