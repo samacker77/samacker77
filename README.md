@@ -1,7 +1,6 @@
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=samacker77.visitor-badge">
-<p/>
+[![HitCount](http://hits.dwyl.com/samacker77/samacker77.svg)](http://hits.dwyl.com/samacker77/samacker77)
+
  
 ### Hi! 🤗 I am *Samar*.
 
