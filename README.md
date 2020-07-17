@@ -1,6 +1,4 @@
 
-[![HitCount](http://hits.dwyl.com/samacker77/samacker77.svg)](http://hits.dwyl.com/samacker77/samacker77)
-
  
 ### Hi! 🤗 I am *Samar*.
 
