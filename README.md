@@ -2,6 +2,8 @@
  
 ### Hi! 🤗 I am *Samar*.
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=samacker77.samacker77)
+
 ---
 
 I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
