@@ -2,7 +2,7 @@
  
 ### Hi! 🤗 I am *Samar*.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=samacker77.samacker77&title=profile views)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=samacker77.samacker77&title=profile%20views)
 
 ---
 
