@@ -34,6 +34,7 @@ When in times of leisure, I like to read books in the genre of mystery thriller,
 
 My posts worth your time:
 
+- [A bug I found on LinkedIn acknowledged by the LinkedIn Software Engineering team](https://www.linkedin.com/posts/samacker77l_linkedin-google-facebook-activity-6714447646364352512--hxP)
 - [Zero to Hero in NLP](https://github.com/samacker77/Zero-to-Hero-in-NLP)
 - [Why do we need to pad text with start and end tokens?](https://www.linkedin.com/feed/update/urn:li:activity:6685237225501851648/)
 - Never forget [Precision & Recall](https://www.linkedin.com/posts/samacker77l_datascience-machinelearning-python-activity-6673279940378583040-OPDq)
