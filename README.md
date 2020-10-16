@@ -24,6 +24,9 @@ When in times of leisure, I like to read books in the genre of mystery thriller,
 
 ---
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=samacker77&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
+
 <h2 style="text-align:center">Social Profiles</h2>
 
 [E-Portfolio](https://samacker77.github.io) | [LinkedIn](https://www.linkedin.com/in/samacker77l) | [Kaggle](https://kaggle.com/samacker77k) | [Visual Profile](https://sourcerer.io/samacker77) | [Click to Chat](https://wa.link/vh8tk9)
