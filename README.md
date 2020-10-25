@@ -29,7 +29,7 @@ When in times of leisure, I like to read books in the genre of mystery thriller,
 
 <h2 style="text-align:center">Social Profiles</h2>
 
-[E-Portfolio](https://samacker77.github.io) | [LinkedIn](https://www.linkedin.com/in/samacker77l) | [Kaggle](https://kaggle.com/samacker77k) | [Visual Profile](https://sourcerer.io/samacker77) | [Click to Chat](https://wa.link/vh8tk9)
+[E-Portfolio](https://samacker77.github.io) | [LinkedIn](https://www.linkedin.com/in/samacker77l) | [Kaggle](https://kaggle.com/samacker77k) | [Visual Profile](https://sourcerer.io/samacker77) | [Click to Chat](https://wa.link/dcydoi)
 
  
  ---
